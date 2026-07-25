@@ -9,7 +9,7 @@ En este repositorio se encuentran algunos programas básicos hechos en Python pa
 
 -Calcular el promedio de tres numéros.
 
--Calcular salario neto.
+-Calcula salario neto.
 
 Cada programa solicita los datos necesarios al usuario y muestra el resultado correspondiente. El objetivo de estos ejercicios es practicar el uso de variables, operaciones matemáticas y la entrada y salida de datos en Python.
 
