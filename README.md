@@ -7,9 +7,9 @@ En este repositorio se encuentran algunos programas básicos hechos en Python pa
 
 -Cálcular el IMC.
 
--Cálcular el promedio de tres numéros.
+-Cálculor el promedio de tres numéros.
 
--Cálcular salario neto.
+-Cálculor salario neto.
 
 Cada programa solicita los datos necesarios al usuario y muestra el resultado correspondiente. El objetivo de estos ejercicios es practicar el uso de variables, operaciones matemáticas y la entrada y salida de datos en Python.
 
