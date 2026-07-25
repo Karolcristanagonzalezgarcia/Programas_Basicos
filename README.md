@@ -2,6 +2,7 @@ PROGRAMAS_BASICOS
 
 
 En este repositorio se encuentran algunos programas básicos hechos en Python para practicar los temas vistos en clase.Los programas que incluye son:
+
 -Calcular el área de un rectángulo.
 
 -Cálcular el IMC.
